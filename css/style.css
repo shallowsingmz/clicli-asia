@@ -193,6 +193,17 @@ footer p {
     border-top: 1px solid #3d5267;
 }
 
+.icp-info a {
+    color: #aaa;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.icp-info a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
 .article-list {
     list-style: none;
 }
